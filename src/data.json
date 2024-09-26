@@ -1,0 +1,1216 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/bd78cb99-869f-5d23-8946-d2e99533e7c5",
+            "url": "https://www.nytimes.com/2024/09/19/us/sheriff-judge-shooting-kentucky.html",
+            "id": 100000009707350,
+            "asset_id": 100000009707350,
+            "source": "New York Times",
+            "published_date": "2024-09-19",
+            "updated": "2024-09-20 16:50:39",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Courts and the Judiciary;Sheriffs;Murders, Attempted Murders and Homicides;Mullins, Kevin R (1970-2024);Stines, Shawn Mickey;Letcher County (Ky);Kentucky",
+            "column": null,
+            "byline": "By Emmett Lindner and Orlando Mayorquín",
+            "type": "Article",
+            "title": "Kentucky Sheriff Arrested in Shooting Death of Judge",
+            "abstract": "The police say a sheriff shot District Judge Kevin Mullins inside the courthouse on Thursday afternoon before turning himself in.",
+            "des_facet": [
+                "Courts and the Judiciary",
+                "Sheriffs",
+                "Murders, Attempted Murders and Homicides"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Mullins, Kevin R (1970-2024)",
+                "Stines, Shawn Mickey"
+            ],
+            "geo_facet": [
+                "Letcher County (Ky)",
+                "Kentucky"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Judge Kevin Mullins was killed in his chambers following an argument on Thursday.",
+                    "copyright": "Kentucky Court of Justice, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/10/19/multimedia/19xp-kentucky-2nd-mjhq/19xp-kentucky-2nd-mjhq-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/10/19/multimedia/19xp-kentucky-2nd-mjhq/19xp-kentucky-2nd-mjhq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/10/19/multimedia/19xp-kentucky-2nd-mjhq/19xp-kentucky-2nd-mjhq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/8b42f915-322b-5475-b87c-3ede83bf1c7e",
+            "url": "https://www.nytimes.com/2024/09/20/us/elections/georgia-election-board-rules.html",
+            "id": 100000009707618,
+            "asset_id": 100000009707618,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 22:11:16",
+            "section": "U.S.",
+            "subsection": "2024 Elections",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2024;Attorneys General;Trump, Donald J;Georgia",
+            "column": null,
+            "byline": "By Nick Corasaniti and Johnny Kauffman",
+            "type": "Article",
+            "title": "Georgia Election Board Orders Hand-Counting of Ballots",
+            "abstract": "Critics say the move could significantly delay the reporting of results in the battleground state and inject chaos into the post-election period.",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Attorneys General"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Georgia State Election Board voted on Friday to approve a rule requiring hand counts of ballots on Election Day, the latest in a string of right-wing election policies passed by the board.",
+                    "copyright": "Erik S Lesser/EPA, via Shutterstock",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20pol-georgia-elections-blgz/20pol-georgia-elections-blgz-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20pol-georgia-elections-blgz/20pol-georgia-elections-blgz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20pol-georgia-elections-blgz/20pol-georgia-elections-blgz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/4f7dd97f-7aff-53b3-a784-de92480bab97",
+            "url": "https://www.nytimes.com/2024/09/18/well/cancer-infections-vaccines-treatments.html",
+            "id": 100000009689366,
+            "asset_id": 100000009689366,
+            "source": "New York Times",
+            "published_date": "2024-09-18",
+            "updated": "2024-09-20 11:32:31",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Cancer;Human Papillomavirus (HPV);Hepatitis;Bacteria;Infections;Sexually Transmitted Diseases;Vaccination and Immunization;Digestive Tract;Disease Rates;Content Type: Service;American Assn for Cancer Research",
+            "column": null,
+            "byline": "By Nina Agrawal",
+            "type": "Article",
+            "title": "These Four Common Infections Can Cause Cancer",
+            "abstract": "A new report says that 13 percent of cancers are linked to bacteria or viruses. Vaccines and treatments offer powerful protection.",
+            "des_facet": [
+                "Cancer",
+                "Human Papillomavirus (HPV)",
+                "Hepatitis",
+                "Bacteria",
+                "Infections",
+                "Sexually Transmitted Diseases",
+                "Vaccination and Immunization",
+                "Digestive Tract",
+                "Disease Rates",
+                "Content Type: Service"
+            ],
+            "org_facet": [
+                "American Assn for Cancer Research"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-CANCER-INFECTIONS1/18WELL-CANCER-INFECTIONS1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/06fbc270-5e87-56ec-836f-e82ff813828f",
+            "url": "https://www.nytimes.com/2024/09/20/opinion/springfield-haitian-migrants-ohio.html",
+            "id": 100000009706364,
+            "asset_id": 100000009706364,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 21:37:06",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Haitian-Americans;Foreign Workers;Labor and Jobs;Presidential Election of 2024;Trump, Donald J;Vance, J D;Springfield (Ohio);Ohio",
+            "column": null,
+            "byline": "By Mike DeWine",
+            "type": "Article",
+            "title": "I’m the Republican Governor of Ohio. Here Is the Truth About Springfield.",
+            "abstract": "I have lived my entire life near this city. Our people and our history deserve better than to be falsely portrayed.",
+            "des_facet": [
+                "Haitian-Americans",
+                "Foreign Workers",
+                "Labor and Jobs",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trump, Donald J",
+                "Vance, J D"
+            ],
+            "geo_facet": [
+                "Springfield (Ohio)",
+                "Ohio"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/21/opinion/20dewine-image/20dewine-image-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/21/opinion/20dewine-image/20dewine-image-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/21/opinion/20dewine-image/20dewine-image-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/a5a01803-09dd-5c0d-a217-22c656050e57",
+            "url": "https://www.nytimes.com/2024/09/20/opinion/covid-vaccines-truth-life-death.html",
+            "id": 100000009693594,
+            "asset_id": 100000009693594,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 22:12:59",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Drugs (Pharmaceuticals);Deaths (Fatalities);Social Media;Rumors and Misinformation;Masks;Research;United States",
+            "column": null,
+            "byline": "By Francis Collins",
+            "type": "Article",
+            "title": "Take It From a Scientist. Facts Matter, and They Don’t Care How You Feel.",
+            "abstract": "I am deeply troubled by the growing distrust of science in our society, just at the time when its insights are most needed.",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Vaccination and Immunization",
+                "Drugs (Pharmaceuticals)",
+                "Deaths (Fatalities)",
+                "Social Media",
+                "Rumors and Misinformation",
+                "Masks",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artwork from the series “Let no one say we were not here,” 2020-23.",
+                    "copyright": "Lydia See",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/opinion/20franciscollins/20franciscollins-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/opinion/20franciscollins/20franciscollins-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/opinion/20franciscollins/20franciscollins-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/bbf59b3a-a0fd-57a8-8b74-1fe2b6ef4c95",
+            "url": "https://www.nytimes.com/2024/09/20/us/kentucky-judge-sheriff-shooting.html",
+            "id": 100000009709005,
+            "asset_id": 100000009709005,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 22:21:02",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Murders, Attempted Murders and Homicides;Sheriffs;Courts and the Judiciary;Letcher County (Ky)",
+            "column": null,
+            "byline": "By Emily Cochrane and Ginny Whitehouse",
+            "type": "Article",
+            "title": "Kentucky Town Is Shaken After Local Sheriff Is Charged With Killing Judge",
+            "abstract": "The two men were seen getting ready to go to lunch on the day of the shooting. Hours later, Judge Kevin Mullins was dead from multiple gunshot wounds.",
+            "des_facet": [
+                "Murders, Attempted Murders and Homicides",
+                "Sheriffs",
+                "Courts and the Judiciary"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Letcher County (Ky)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Letcher County courthouse in Whitesburg, Ky.",
+                    "copyright": "Jared Hamilton for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-kentucky-zgqc/20nat-kentucky-zgqc-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-kentucky-zgqc/20nat-kentucky-zgqc-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-kentucky-zgqc/20nat-kentucky-zgqc-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/23d51285-2a42-529c-ba38-ccd53fd6ab60",
+            "url": "https://www.nytimes.com/2024/09/20/briefing/breast-reduction-gen-z.html",
+            "id": 100000009708775,
+            "asset_id": 100000009708775,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 07:21:04",
+            "section": "Briefing",
+            "subsection": "",
+            "nytdsection": "briefing",
+            "adx_keywords": "internal-storyline-no;Breasts;Surgery and Surgeons",
+            "column": null,
+            "byline": "By Lisa Miller",
+            "type": "Article",
+            "title": "A Surge in Breast Reductions",
+            "abstract": "We explore why younger women are undergoing the cosmetic procedure.",
+            "des_facet": [
+                "internal-storyline-no",
+                "Breasts",
+                "Surgery and Surgeons"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cheyenne Lin, 26, had constant back pain before her surgery.",
+                    "copyright": "Maggie Shannon for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/20themorning-nl-reduction/BREASTREDUCTION8-hmqb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/20themorning-nl-reduction/20themorning-nl-reduction-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/20themorning-nl-reduction/20themorning-nl-reduction-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/f3fa27b6-cf15-5b4b-a86b-312252101741",
+            "url": "https://www.nytimes.com/2024/09/20/world/middleeast/israel-soldiers-palestinian-bodies-roof.html",
+            "id": 100000009708671,
+            "asset_id": 100000009708671,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-21 04:18:02",
+            "section": "World",
+            "subsection": "Middle East",
+            "nytdsection": "world",
+            "adx_keywords": "Israel-Gaza War (2023- );Video Recordings, Downloads and Streaming;Human Rights and Human Rights Violations;Qabatiya (West Bank)",
+            "column": null,
+            "byline": "By Raja Abdulrahim and Aric Toler",
+            "type": "Article",
+            "title": "Israeli Soldiers Throw Three Seemingly Lifeless Palestinians Off a Roof",
+            "abstract": "Several videos have emerged of the gruesome scene, but it remains unclear if the three were alive or dead at the time.",
+            "des_facet": [
+                "Israel-Gaza War (2023- )",
+                "Video Recordings, Downloads and Streaming",
+                "Human Rights and Human Rights Violations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Qabatiya (West Bank)"
+            ],
+            "media": [],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/af33aae8-c06c-5029-bbe8-4937d531e16f",
+            "url": "https://www.nytimes.com/2024/09/20/opinion/vance-tucker-carlson-interview.html",
+            "id": 100000009703338,
+            "asset_id": 100000009703338,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 07:04:52",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Presidential Election of 2024;Television;Vice Presidents and Vice Presidency (US);Right-Wing Extremism and Alt-Right;Carlson, Tucker;Trump, Donald J;Vance, J D;Fox News Channel;Republican Party;Hershey (Pa)",
+            "column": null,
+            "byline": "By Jason Zengerle",
+            "type": "Article",
+            "title": "The Strange Afterlife of Tucker Carlson",
+            "abstract": "A year after leaving Fox News, Carlson has figured out how to exercise power and influence in less public ways.",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Television",
+                "Vice Presidents and Vice Presidency (US)",
+                "Right-Wing Extremism and Alt-Right"
+            ],
+            "org_facet": [
+                "Fox News Channel",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Carlson, Tucker",
+                "Trump, Donald J",
+                "Vance, J D"
+            ],
+            "geo_facet": [
+                "Hershey (Pa)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jamie Lee Taete for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/bwvq/bwvq-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/bwvq/bwvq-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/bwvq/bwvq-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0baa1012-38a8-5b49-a44f-8218c91525b3",
+            "url": "https://www.nytimes.com/2024/09/20/us/politics/kamala-harris-oprah-winfrey-event.html",
+            "id": 100000009706794,
+            "asset_id": 100000009706794,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 22:15:49",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Harris, Kamala D;Winfrey, Oprah;Whitmer, Gretchen;Democratic Party;Michigan",
+            "column": null,
+            "byline": "By Erica L. Green",
+            "type": "Article",
+            "title": "Harris Hits Core Campaign Themes in Emotional Forum With Oprah Winfrey",
+            "abstract": "Vice President Kamala Harris spoke off the cuff, as guests included a teenager shot at her school and the family of a woman in Georgia who died as a result of the state’s abortion ban.",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Democratic Party"
+            ],
+            "per_facet": [
+                "Harris, Kamala D",
+                "Winfrey, Oprah",
+                "Whitmer, Gretchen"
+            ],
+            "geo_facet": [
+                "Michigan"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19election-live-harris-michigan2-blzp/19election-live-harris-michigan2-blzp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19election-live-harris-michigan2-blzp/19election-live-harris-michigan2-blzp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19election-live-harris-michigan2-blzp/19election-live-harris-michigan2-blzp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fbab25bd-afee-5ddc-aea4-c7ba6df157ac",
+            "url": "https://www.nytimes.com/2024/09/20/us/mark-robinson-north-carolina-republicans.html",
+            "id": 100000009709107,
+            "asset_id": 100000009709107,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-21 08:25:22",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2024;Elections, Governors;Conservatism (US Politics);Right-Wing Extremism and Alt-Right;Redistricting and Reapportionment;Politics and Government;Robinson, Mark K (1968- );Republican Party;North Carolina",
+            "column": null,
+            "byline": "By Richard Fausset, Eduardo Medina and Michael Wines",
+            "type": "Article",
+            "title": "With Robinson Candidacy, North Carolina Republicans Fear Damage to Years of Gains",
+            "abstract": "Explosive posts by the Republican candidate for governor, Mark Robinson, are sending waves of anxiety through a state party that has long been tactical and disciplined.",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Elections, Governors",
+                "Conservatism (US Politics)",
+                "Right-Wing Extremism and Alt-Right",
+                "Redistricting and Reapportionment",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Robinson, Mark K (1968- )"
+            ],
+            "geo_facet": [
+                "North Carolina"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Robinson, the North Carolina Republican candidate for governor, speaking at the Republican National Convention this summer. ",
+                    "copyright": "Jamie Kelter Davis for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-nc-gop-SWAP-jfkp/20nat-nc-gop-SWAP-jfkp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-nc-gop-SWAP-jfkp/20nat-nc-gop-SWAP-jfkp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-nc-gop-SWAP-jfkp/20nat-nc-gop-SWAP-jfkp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/fc90a612-52e7-5b88-90ee-4459c838cc6a",
+            "url": "https://www.nytimes.com/2024/09/18/well/eat/inflammation-food-diet.html",
+            "id": 100000009626808,
+            "asset_id": 100000009626808,
+            "source": "New York Times",
+            "published_date": "2024-09-18",
+            "updated": "2024-09-19 01:49:28",
+            "section": "Well",
+            "subsection": "Eat",
+            "nytdsection": "well",
+            "adx_keywords": "Immune System;Chronic Condition (Health);Antioxidants;Diet and Nutrition;Vegetables;Fruit;Beans;Spices;Omega-3 Fatty Acids;Coffee;Tea;Content Type: Service",
+            "column": null,
+            "byline": "By Jillian Pretzel and Sarah Mafféïs",
+            "type": "Article",
+            "title": "The Foods That Fight Inflammation",
+            "abstract": "Chronic inflammation can be a silent killer, but your diet can play a role in tamping it down.",
+            "des_facet": [
+                "Immune System",
+                "Chronic Condition (Health)",
+                "Antioxidants",
+                "Diet and Nutrition",
+                "Vegetables",
+                "Fruit",
+                "Beans",
+                "Spices",
+                "Omega-3 Fatty Acids",
+                "Coffee",
+                "Tea",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-FOOD-INFLAMMATION-lede/18WELL-FOOD-INFLAMMATION-lede-thumbStandard-v11.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-FOOD-INFLAMMATION-lede/18WELL-FOOD-INFLAMMATION-lede-mediumThreeByTwo210-v13.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/24/well/18WELL-FOOD-INFLAMMATION-lede/18WELL-FOOD-INFLAMMATION-lede-mediumThreeByTwo440-v13.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/c9395994-d6dd-5ea2-8501-6376e6af5405",
+            "url": "https://www.nytimes.com/2024/09/20/opinion/trump-elon-musk-twitter-x.html",
+            "id": 100000009706806,
+            "asset_id": 100000009706806,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 22:21:19",
+            "section": "Opinion",
+            "subsection": "",
+            "nytdsection": "opinion",
+            "adx_keywords": "Social Media;Right-Wing Extremism and Alt-Right;Presidential Election of 2024;Musk, Elon;Trump, Donald J;X (Formerly Twitter);Democratic Party;Republican Party",
+            "column": null,
+            "byline": "By Michelle Goldberg",
+            "type": "Article",
+            "title": "What Trump Did to the G.O.P., Musk Did to Twitter",
+            "abstract": "It’s more toxic but less relevant than ever.",
+            "des_facet": [
+                "Social Media",
+                "Right-Wing Extremism and Alt-Right",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [
+                "X (Formerly Twitter)",
+                "Democratic Party",
+                "Republican Party"
+            ],
+            "per_facet": [
+                "Musk, Elon",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Rachel Stern for The New York Times; source photograph by Haiyun Jiang",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/opinion/20goldberg/20goldberg-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/opinion/20goldberg/20goldberg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/opinion/20goldberg/20goldberg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ed05fe9e-4390-59e6-9f7a-31a55c53a686",
+            "url": "https://www.nytimes.com/2024/09/19/nyregion/citi-bike-scam-nyc.html",
+            "id": 100000009634632,
+            "asset_id": 100000009634632,
+            "source": "New York Times",
+            "published_date": "2024-09-19",
+            "updated": "2024-09-19 21:21:58",
+            "section": "New York",
+            "subsection": "",
+            "nytdsection": "new york",
+            "adx_keywords": "Bicycles and Bicycling;Freelancing, Self-Employment and Independent Contracting;Frauds and Swindling;Mobile Applications;Citi Bike;Lyft Inc;New York City",
+            "column": null,
+            "byline": "By Christopher Maag",
+            "type": "Article",
+            "title": "The Hustlers Who Make $6,000 a Month by Gaming Citi Bikes",
+            "abstract": "The bike-sharing program rewards users who help redistribute bikes around New York City. A few riders have figured out how to turn that into profit.",
+            "des_facet": [
+                "Bicycles and Bicycling",
+                "Freelancing, Self-Employment and Independent Contracting",
+                "Frauds and Swindling",
+                "Mobile Applications"
+            ],
+            "org_facet": [
+                "Citi Bike",
+                "Lyft Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A full dock of Citi Bikes on 34th Street means there’s money to be made by moving them elsewhere.",
+                    "copyright": "Yuvraj Khanna for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/nyregion/22POWER-ANGEL7-hmkl/22POWER-ANGEL7-hmkl-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/nyregion/22POWER-ANGEL7-hmkl/22POWER-ANGEL7-hmkl-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/nyregion/22POWER-ANGEL7-hmkl/22POWER-ANGEL7-hmkl-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5c7db0df-1a02-5327-837c-f3dab36bb9cd",
+            "url": "https://www.nytimes.com/2024/09/20/us/politics/undecided-voters-2024-election.html",
+            "id": 100000009708957,
+            "asset_id": 100000009708957,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 16:29:06",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Presidential Election of 2024;Polls and Public Opinion;United States Economy;Voting and Voters;Generation Z;Harris, Kamala D;Trump, Donald J;Democratic Party;Republican Party;Siena College",
+            "column": null,
+            "byline": "By Jeremy W. Peters, Ruth Igielnik and Clyde McGrady",
+            "type": "Article",
+            "title": "These Voters Don’t Want to Commit to Trump or Harris. Here’s Why.",
+            "abstract": "Those still weighing their options are more likely  to be young, Black or Latino — and struggling. Many see their choice as the “lesser of two evils.”",
+            "des_facet": [
+                "Presidential Election of 2024",
+                "Polls and Public Opinion",
+                "United States Economy",
+                "Voting and Voters",
+                "Generation Z"
+            ],
+            "org_facet": [
+                "Democratic Party",
+                "Republican Party",
+                "Siena College"
+            ],
+            "per_facet": [
+                "Harris, Kamala D",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "About 18 percent of likely voters nationwide have not definitely made up their minds on which candidate to support, according to the latest New York Times, Philadelphia Inquirer and Siena College poll.",
+                    "copyright": "Doug Mills/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-undecided-01-hbtm/20nat-undecided-01-hbtm-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-undecided-01-hbtm/20nat-undecided-01-hbtm-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20nat-undecided-01-hbtm/20nat-undecided-01-hbtm-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/1c134921-a37b-5f75-868e-9a49c4dba278",
+            "url": "https://www.nytimes.com/2024/09/19/arts/television/a-very-royal-scandal-amazon.html",
+            "id": 100000009704309,
+            "asset_id": 100000009704309,
+            "source": "New York Times",
+            "published_date": "2024-09-19",
+            "updated": "2024-09-19 21:38:12",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Television;Andrew, Duke of York;Amazon.com Inc",
+            "column": null,
+            "byline": "By Margaret Lyons",
+            "type": "Article",
+            "title": "‘A Very Royal Scandal’ Is a Juicy British Drama",
+            "abstract": "This taut and serious Amazon series chronicles the time when Prince Andrew was interviewed on TV about his relationship with Jeffrey Epstein.",
+            "des_facet": [
+                "Television"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+                "Andrew, Duke of York"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ruth Wilson, left, and Michael Sheen in a scene from “A Very Royal Scandal.”",
+                    "copyright": "Christopher Raphael/Blueprint, via Sony",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/arts/19Watching-Royal/19Watching-Royal-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/arts/19Watching-Royal/19Watching-Royal-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/arts/19Watching-Royal/19Watching-Royal-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/0662c9b1-b4ec-53d4-afb4-3e6c9c599ddf",
+            "url": "https://www.nytimes.com/2024/09/20/us/cal-fire-sonoma-county-arson.html",
+            "id": 100000009710554,
+            "asset_id": 100000009710554,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 17:28:27",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Arson;Fires and Firefighters;Wildfires;Cal Fire;California;Geyserville (Calif);Healdsburg (Calif);Sonoma County (Calif);Windsor (Calif)",
+            "column": null,
+            "byline": "By Heather Knight",
+            "type": "Article",
+            "title": "California Firefighter Is Accused of Starting 5 Fires in Wine Country",
+            "abstract": "A Cal Fire employee was arrested Friday on suspicion of starting several blazes in Sonoma County.",
+            "des_facet": [
+                "Arson",
+                "Fires and Firefighters",
+                "Wildfires"
+            ],
+            "org_facet": [
+                "Cal Fire"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "California",
+                "Geyserville (Calif)",
+                "Healdsburg (Calif)",
+                "Sonoma County (Calif)",
+                "Windsor (Calif)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A California firefighter was arrested on Friday after allegedly setting five fires. ",
+                    "copyright": "Tayfun Coskun/Anadolu via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/us/20nat-california-arson-SWAP2/20nat-california-arson-SWAP2-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/us/20nat-california-arson-SWAP2/20nat-california-arson-SWAP2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/us/20nat-california-arson-SWAP2/20nat-california-arson-SWAP2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/ed1da383-a06f-5ee2-9400-20b568644195",
+            "url": "https://www.nytimes.com/2024/09/20/style/torrey-devitto-jared-lapine-wedding.html",
+            "id": 100000009694048,
+            "asset_id": 100000009694048,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 23:01:15",
+            "section": "Style",
+            "subsection": "",
+            "nytdsection": "style",
+            "adx_keywords": "Weddings and Engagements",
+            "column": null,
+            "byline": "By Tammy LaGorce",
+            "type": "Article",
+            "title": "A Hollywood Actress Finds a Farm, and Her Leading Man, in the Midwest",
+            "abstract": "Torrey DeVitto, whose father was Billy Joel’s drummer and mother is Stevie Nicks’s best friend, is a famous actress in her own right. She found love with Jared LaPine in Kalamazoo, Mich.",
+            "des_facet": [
+                "Weddings and Engagements"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Torrey DeVitto and Jared LaPine were married Sept. 14 at the Inisfree Estate in Pullman, Mich. The couple are expecting a daughter in November.",
+                    "copyright": "The Fourniers",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/20VOWS-TORREY-DEVITTO-03-wtkp/20VOWS-TORREY-DEVITTO-03-wtkp-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/20VOWS-TORREY-DEVITTO-03-wtkp/20VOWS-TORREY-DEVITTO-03-wtkp-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/22/multimedia/20VOWS-TORREY-DEVITTO-03-wtkp/20VOWS-TORREY-DEVITTO-03-wtkp-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/b48420f2-7266-5b3b-977e-ff0adfbfbd1b",
+            "url": "https://www.nytimes.com/2024/09/20/health/ftc-drug-price-inflation-insulin.html",
+            "id": 100000009698348,
+            "asset_id": 100000009698348,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-21 08:44:37",
+            "section": "Health",
+            "subsection": "",
+            "nytdsection": "health",
+            "adx_keywords": "Prices (Fares, Fees and Rates);Drugs (Pharmaceuticals);Health Insurance and Managed Care;Suits and Litigation (Civil);Presidential Election of 2024;Drugstores;Insulin;Antitrust Laws and Competition Issues;Regulation and Deregulation of Industry;Khan, Lina;CIGNA Corporation;CVS Caremark Corporation;Express Scripts Inc;Federal Trade Commission",
+            "column": null,
+            "byline": "By Reed Abelson and Rebecca Robbins",
+            "type": "Article",
+            "title": "F.T.C. Accuses Drug Middlemen of Inflating Insulin Prices",
+            "abstract": "The case takes aim at the major pharmacy benefit managers, agency officials said, claiming that they favored more expensive insulin products and forced patients to pay more.",
+            "des_facet": [
+                "Prices (Fares, Fees and Rates)",
+                "Drugs (Pharmaceuticals)",
+                "Health Insurance and Managed Care",
+                "Suits and Litigation (Civil)",
+                "Presidential Election of 2024",
+                "Drugstores",
+                "Insulin",
+                "Antitrust Laws and Competition Issues",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "CIGNA Corporation",
+                "CVS Caremark Corporation",
+                "Express Scripts Inc",
+                "Federal Trade Commission"
+            ],
+            "per_facet": [
+                "Khan, Lina"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lina Khan, the chair of the Federal Trade Commission.",
+                    "copyright": "Tom Brenner for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2023/10/29/multimedia/20FTC-PBMS/20FTC-PBMS-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/10/29/multimedia/20FTC-PBMS/20FTC-PBMS-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2023/10/29/multimedia/20FTC-PBMS/20FTC-PBMS-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        },
+        {
+            "uri": "nyt://article/5455136d-e969-55ff-b589-f73801eb50d6",
+            "url": "https://www.nytimes.com/2024/09/20/us/politics/kamala-harris-gun-oprah.html",
+            "id": 100000009710984,
+            "asset_id": 100000009710984,
+            "source": "New York Times",
+            "published_date": "2024-09-20",
+            "updated": "2024-09-20 19:16:15",
+            "section": "U.S.",
+            "subsection": "Politics",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Politics and Government;Elections;Presidential Election of 2024;Harris, Kamala D;Biden, Joseph R Jr",
+            "column": null,
+            "byline": "By Jess Bidgood",
+            "type": "Article",
+            "title": "Kamala Harris Tells Oprah if Somebody Breaks Into Her Home, ‘They’re Getting Shot’",
+            "abstract": "The remarkable utterance underscored Democrats’ increasing comfort with the country’s gun culture, and how Harris is trying to use it to puncture notions about female candidates.",
+            "des_facet": [
+                "Politics and Government",
+                "Elections",
+                "Presidential Election of 2024"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Harris, Kamala D",
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vice President Kamala Harris during a campaign event in Farmington Hills, Mich., on Thursday, where she was interviewed by Oprah Winfrey.",
+                    "copyright": "Kenny Holston/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20-pol-on-politics-newsletter-topitem-fvbj/20-pol-on-politics-newsletter-topitem-fvbj-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20-pol-on-politics-newsletter-topitem-fvbj/20-pol-on-politics-newsletter-topitem-fvbj-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/20/multimedia/20-pol-on-politics-newsletter-topitem-fvbj/20-pol-on-politics-newsletter-topitem-fvbj-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

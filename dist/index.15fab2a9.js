@@ -1,0 +1,21 @@
+function e(){let e=document.getElementById("current-time"),t=new Date;e.innerHTML=t.toLocaleDateString("en-US",{weekday:"long",year:"numeric",month:"long",day:"numeric"}),e.setAttribute("datetime",t.toISOString())}e(),setInterval(e,1e3);const t=async e=>{try{let t=await fetch(e);if(!t.ok)throw Error(`HTTP error! Status: ${t.status}`);return await t.json()}catch(e){return console.error("An error occurred:",e.message),{results:[]}}},a=document.getElementById("popular-stories-left"),r=document.getElementById("popular-stories-right"),l=e=>{if(!a||!r)return;a.innerHTML="",r.innerHTML="";let t=document.createElement("div");t.setAttribute("class","category-name"),t.innerHTML="<h1>POPULAR NEWS</h1>",a.appendChild(t);let l=e.results||[];if(l.length<2){a.innerHTML="<p>Not enough articles to display.</p>";return}let i=l.slice(Math.floor(l.length/2));l.slice(0,Math.floor(l.length/2)).forEach(e=>{let t=document.createElement("div");t.setAttribute("class","article");let r=e.media&&e.media[0]&&e.media[0]["media-metadata"]&&e.media[0]["media-metadata"][2]?e.media[0]["media-metadata"][2].url:"https://res.cloudinary.com/dzvd6o0og/image/upload/v1726562144/placeholder_lz0wd0.jpg",l=e.url;t.innerHTML=`
+      <h1><a href="${l}" target='_blank'>${e.title||"No title available"}</a></h1>
+      <img src="${r}" alt="${e.title||"No title available"}" />
+      <p>${e.abstract||"No description available"}</p>
+    `,a.appendChild(t)}),i.slice(0,8).forEach(e=>{let t=document.createElement("div");t.setAttribute("class","right-article");let a=e.url;t.innerHTML=`
+      <h1><a href="${a}" target='_blank'>${e.title||"No title available"}</a></h1>
+      <p>${e.abstract||"No description available"}</p>
+    `,r.appendChild(t)})};(async()=>{l(await t("data.json"))})();const i=document.getElementById("book-review"),n=e=>{i&&(i.innerHTML="",(e.results.books||[]).forEach(e=>{let t=document.createElement("div");t.setAttribute("class","book");let a=e.book_image||"https://res.cloudinary.com/dzvd6o0og/image/upload/v1726562144/placeholder_lz0wd0.jpg",r=e.amazon_product_url;t.innerHTML=`
+      <h1><a href='${r}' target='_blank'>${e.title||"No title available"}</a></h1>
+      <img src="${a}" alt="${e.title||"No title available"}" />
+      <p>${e.description||"No description available"}</p>
+    `,i.appendChild(t)}))};(async()=>{n(await t("https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=xGrrl5lSeDM73RvXOHvJA1Zp0exJRHu6"))})();const o=document.getElementById("top-stories"),s=e=>{o&&(o.innerHTML="",(e.results||[]).forEach(e=>{let t=document.createElement("div");t.className="top";let a=e.title||"No title available",r=e.url||"#",l=e.abstract||"No description available",i=e.multimedia[0].url||"https://res.cloudinary.com/dzvd6o0og/image/upload/v1726562144/placeholder_lz0wd0.jpg";t.innerHTML=`
+      <h1><a href='${r}' target='_blank'>${a}</a></h1>
+      <img src="${i}" alt="${a}" />
+      <p>${l}</p>
+    `,o.appendChild(t)}))};(async()=>{s(await t("https://api.nytimes.com/svc/topstories/v2/world.json?api-key=xGrrl5lSeDM73RvXOHvJA1Zp0exJRHu6"))})(),document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById("search-form"),t=document.getElementById("search"),a=document.getElementById("search-news");e&&t&&a&&e.addEventListener("submit",e=>{e.preventDefault();let r=t.value.trim();if(""===r){alert("Please enter a search term.");return}let l=`https://api.nytimes.com/svc/search/v2/articlesearch.json?q=${encodeURIComponent(r)}&api-key=xGrrl5lSeDM73RvXOHvJA1Zp0exJRHu6`,i=e=>{a.innerHTML="",(e.response.docs||[]).forEach(e=>{let t=document.createElement("div");t.setAttribute("class","searchItem");let r=e.headline.main||"No title available",l=e.abstract||"No abstract available",i=e.web_url||"#",n=e.multimedia.length>0?`https://www.nytimes.com/${e.multimedia[0].url}`:"https://res.cloudinary.com/dzvd6o0og/image/upload/v1726562144/placeholder_lz0wd0.jpg";t.innerHTML=`
+            <h1><a href="${i}" target="_blank">${r}</a></h1>
+            <img src="${n}" alt="${r}" />
+            <p>${l}</p>
+          `,a.appendChild(t)})};(async()=>{try{let e=await fetch(l),t=await e.json();i(t)}catch(e){console.error("Error fetching search results:",e)}})()})});
+//# sourceMappingURL=index.15fab2a9.js.map
