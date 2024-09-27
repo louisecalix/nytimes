@@ -39,7 +39,7 @@ menu, nav, section, time {
     font-size: 90px;
 }
 
-NAV {
+#index-nav {
   min-width: 400px;
 }
 
@@ -55,14 +55,26 @@ NAV {
     margin: 0 auto; 
     flex-wrap: wrap;
     align-items: center;
-    position: sticky;
-    top: 0;
-    z-index: 1000;
 }
 
 a {
     color: white;
 }
+
+
+#world{
+  font-weight: 100;
+}
+#us{
+  font-weight: 100;
+}
+#business{
+  font-weight: 100;
+}
+#opinion{
+  font-weight: 100;
+}
+
 
 p {
   padding-top: 10px;
@@ -137,6 +149,7 @@ main {
   display: grid; 
   grid-template-columns: repeat(2, 1fr); 
   gap: 40px; 
+  /* overflow-y: auto */
 }
 
 
@@ -151,13 +164,19 @@ main {
   padding: 0 20px;
   background-color: brown;
   color: white;
-  /* overflow: hidden; */
+  justify-content: space-evenly;
 }
 
 .right-articles a {
   color: white;
+  font-size: 1.5rem;  
+  text-align: center;
+  transition: background-color 0.3s ease;
 }
 
+.right-articles a:hover {
+  background-color: rgb(119, 32, 32);
+}
 
 
 .article {
@@ -208,6 +227,7 @@ main {
 }
 
 
+
 @media (max-width: 768px) {
   #popular-stories {
     grid-template-columns: 1fr; 
@@ -230,6 +250,8 @@ main {
     gap: 10px;
     min-width: fit-content;
   }
+
+
 }
 
 
@@ -302,7 +324,6 @@ main {
     padding: 20px 0px;
   }
 }
-
 
 
 

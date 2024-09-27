@@ -35,12 +35,11 @@ html, body, div, span, h1, h2, h3, p, a, img, strong, u, i, label, article, foot
   display: block;
 }
 
-NAV {
+#index-nav {
   min-width: 400px;
 }
 
 #nav-container {
-  z-index: 1000;
   background-color: brown;
   flex-flow: wrap;
   justify-content: center;
@@ -51,12 +50,14 @@ NAV {
   padding: 20px;
   font-size: 20px;
   display: flex;
-  position: sticky;
-  top: 0;
 }
 
 a {
   color: #fff;
+}
+
+#world, #us, #business, #opinion {
+  font-weight: 100;
 }
 
 p {
@@ -131,6 +132,7 @@ img:hover {
   background-color: brown;
   flex-direction: column;
   flex: 2;
+  justify-content: space-evenly;
   gap: 40px;
   height: fit-content;
   padding: 0 20px;
@@ -139,6 +141,13 @@ img:hover {
 
 .right-articles a {
   color: #fff;
+  text-align: center;
+  font-size: 1.5rem;
+  transition: background-color .3s;
+}
+
+.right-articles a:hover {
+  background-color: #772020;
 }
 
 .article {

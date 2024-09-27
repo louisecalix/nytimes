@@ -1,21 +1,21 @@
-5882
-39/home/louisecalix/nytimes/dist/top.html1727354020258439925 0
+5883
+39/home/louisecalix/nytimes/dist/top.html1727354043728427679 0
 49/home/louisecalix/nytimes/dist/index.0dd9ecc5.css1727354020238439934 0
-49/home/louisecalix/nytimes/dist/index.6bc44b11.css1727354020248439930 0
-42/home/louisecalix/nytimes/dist/search.html1727354020258439925 0
-53/home/louisecalix/nytimes/dist/index.4d663569.css.map1727354020248439930 0
+49/home/louisecalix/nytimes/dist/index.6bc44b11.css1727354043678427707 0
+42/home/louisecalix/nytimes/dist/search.html1727354043698427695 0
+53/home/louisecalix/nytimes/dist/index.4d663569.css.map1727354043738427673 0
 48/home/louisecalix/nytimes/dist/index.15fab2a9.js1727354020238439934 0
-53/home/louisecalix/nytimes/dist/index.6bc44b11.css.map1727354020248439930 0
+53/home/louisecalix/nytimes/dist/index.6bc44b11.css.map1727354043698427695 0
 53/home/louisecalix/nytimes/dist/index.94403d57.css.map1727354020248439930 0
 52/home/louisecalix/nytimes/dist/index.15fab2a9.js.map1727354020238439934 0
-30/home/louisecalix/nytimes/dist1727354020258439925 1
+30/home/louisecalix/nytimes/dist1727354043748427668 1
 35/home/louisecalix/nytimes/README.md1727352953438882703 0
 36/home/louisecalix/nytimes/.gitignore1727354027388435299 0
 40/home/louisecalix/nytimes/src/search.css1727354027358435318 0
-40/home/louisecalix/nytimes/src/styles.css1727354027358435318 0
-38/home/louisecalix/nytimes/src/top.html1727354027358435318 0
+40/home/louisecalix/nytimes/src/styles.css1727426449215189556 0
+38/home/louisecalix/nytimes/src/top.html1727418944556917202 0
 41/home/louisecalix/nytimes/src/search.html1727354027358435318 0
-39/home/louisecalix/nytimes/src/script.js1727354027358435318 0
+39/home/louisecalix/nytimes/src/script.js1727426580965142941 0
 43/home/louisecalix/nytimes/package-lock.json1727354027418435278 0
 51/home/louisecalix/nytimes/node_modules/resolve-from1727354027028435534 1
 63/home/louisecalix/nytimes/node_modules/nth-check/lib/parse.d.ts1727354026958435581 0
@@ -252,7 +252,7 @@
 86/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/css-logical-props.js1727354025588436479 0
 82/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/trusted-types.js1727354025738436380 0
 80/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/user-timing.js1727354025748436372 0
-48/home/louisecalix/nytimes/dist/index.f5c48570.js1727354020248439930 0
+48/home/louisecalix/nytimes/dist/index.f5c48570.js1727354043748427668 0
 74/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/http2.js1727354025658436431 0
 87/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/css-matches-pseudo.js1727354025598436470 0
 89/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/css-overflow-overlay.js1727354025598436470 0
@@ -798,7 +798,7 @@
 80/home/louisecalix/nytimes/node_modules/@parcel/namer-default/src/DefaultNamer.js1727354020748439648 0
 70/home/louisecalix/nytimes/node_modules/@swc/helpers/_/_sliced_to_array1727354025328436649 1
 89/home/louisecalix/nytimes/node_modules/css-select/node_modules/domutils/lib/esm/legacy.js1727354025998436210 0
-40/home/louisecalix/nytimes/dist/book.html1727354020238439934 0
+40/home/louisecalix/nytimes/dist/book.html1727354043698427695 0
 57/home/louisecalix/nytimes/node_modules/@parcel/plugin/src1727354021148439385 1
 70/home/louisecalix/nytimes/node_modules/caniuse-lite/data/regions/AM.js1727354025778436354 0
 70/home/louisecalix/nytimes/node_modules/caniuse-lite/data/regions/CA.js1727354025788436346 0
@@ -2218,6 +2218,7 @@
 88/home/louisecalix/nytimes/node_modules/css-select/node_modules/domutils/lib/traversal.js1727354026018436197 0
 97/home/louisecalix/nytimes/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/data/index.js1727354020958439510 0
 45/home/louisecalix/nytimes/node_modules/parcel1727354026978435568 1
+33/home/louisecalix/nytimes/.github1727355210877920135 1
 78/home/louisecalix/nytimes/node_modules/@parcel/utils/test/PromiseQueue.test.js1727354024288437328 0
 119/home/louisecalix/nytimes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/index.js1727354020778439629 0
 78/home/louisecalix/nytimes/node_modules/@parcel/reporter-cli/src/phaseReport.js1727354021158439380 0
@@ -2502,7 +2503,7 @@
 72/home/louisecalix/nytimes/node_modules/@parcel/packager-raw/package.json1727354021138439393 0
 72/home/louisecalix/nytimes/node_modules/@swc/helpers/src/_ts_decorate.mjs1727354025488436542 0
 91/home/louisecalix/nytimes/node_modules/@swc/helpers/esm/_object_without_properties_loose.js1727354025428436582 0
-49/home/louisecalix/nytimes/dist/index.4d663569.css1727354020248439930 0
+49/home/louisecalix/nytimes/dist/index.4d663569.css1727354043738427673 0
 72/home/louisecalix/nytimes/node_modules/@swc/helpers/src/_ts_metadata.mjs1727354025488436542 0
 118/home/louisecalix/nytimes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/common/OffsetToLocation.js1727354020788439621 0
 81/home/louisecalix/nytimes/node_modules/csso/node_modules/css-tree/data/patch.json1727354026328435992 0
@@ -2831,7 +2832,7 @@
 82/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/link-icon-png.js1727354025688436412 0
 51/home/louisecalix/nytimes/node_modules/mdn-data/css1727354026858435645 1
 80/home/louisecalix/nytimes/node_modules/@swc/helpers/_/_object_without_properties1727354025328436649 1
-25/home/louisecalix/nytimes1727354027438435264 1
+25/home/louisecalix/nytimes1727354834228077663 1
 63/home/louisecalix/nytimes/node_modules/csso/lib/clean/Atrule.js1727354026238436051 0
 119/home/louisecalix/nytimes/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-node/parcel_sourcemap_wasm_bg.wasm1727354024108437448 0
 106/home/louisecalix/nytimes/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/general.d.ts1727354020768439635 0
@@ -3067,7 +3068,7 @@
 56/home/louisecalix/nytimes/node_modules/picomatch/LICENSE1727354026988435560 0
 72/home/louisecalix/nytimes/node_modules/css-tree/lib/syntax/node/index.js1727354026178436091 0
 59/home/louisecalix/nytimes/node_modules/stable/stable.min.js1727354027078435501 0
-52/home/louisecalix/nytimes/dist/index.f5c48570.js.map1727354020248439930 0
+52/home/louisecalix/nytimes/dist/index.f5c48570.js.map1727354043748427668 0
 61/home/louisecalix/nytimes/node_modules/mdn-data/css/readme.md1727354026858435645 0
 89/home/louisecalix/nytimes/node_modules/htmlnano/lib/modules/collapseBooleanAttributes.cjs1727354026518435868 0
 92/home/louisecalix/nytimes/node_modules/csso/node_modules/css-tree/lib/syntax/atrule/index.js1727354026358435974 0
@@ -4044,7 +4045,7 @@
 81/home/louisecalix/nytimes/node_modules/@parcel/core/lib/requests/ConfigRequest.js1727354020588439754 0
 65/home/louisecalix/nytimes/node_modules/mdn-data/css/syntaxes.json1727354026858435645 0
 87/home/louisecalix/nytimes/node_modules/@parcel/core/lib/requests/ParcelConfigRequest.js1727354020598439746 0
-41/home/louisecalix/nytimes/dist/index.html1727354020258439925 0
+41/home/louisecalix/nytimes/dist/index.html1727354043728427679 0
 82/home/louisecalix/nytimes/node_modules/@parcel/core/lib/requests/PackageRequest.js1727354020598439746 0
 86/home/louisecalix/nytimes/node_modules/@parcel/core/lib/requests/ParcelBuildRequest.js1727354020598439746 0
 73/home/louisecalix/nytimes/node_modules/@swc/helpers/cjs/_create_super.cjs1727354025378436616 0
@@ -4327,7 +4328,7 @@
 74/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/asmjs.js1727354025548436505 0
 70/home/louisecalix/nytimes/node_modules/@parcel/transformer-postcss/lib1727354024158437416 1
 85/home/louisecalix/nytimes/node_modules/@parcel/transformer-postcss/lib/loadPlugins.js1727354024158437416 0
-40/home/louisecalix/nytimes/src/index.html1727354027358435318 0
+40/home/louisecalix/nytimes/src/index.html1727426436045188195 0
 70/home/louisecalix/nytimes/node_modules/caniuse-lite/data/regions/IN.js1727354025808436333 0
 84/home/louisecalix/nytimes/node_modules/@parcel/transformer-postcss/lib/loadConfig.js1727354024158437416 0
 87/home/louisecalix/nytimes/node_modules/caniuse-lite/data/features/orientation-sensor.js1727354025708436399 0

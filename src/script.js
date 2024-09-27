@@ -162,7 +162,9 @@ const updateBookContainer = (data) => {
 
 
 // Top Stories
-const topUrl = 'https://api.nytimes.com/svc/topstories/v2/world.json?api-key=xGrrl5lSeDM73RvXOHvJA1Zp0exJRHu6';
+const apiKey = 'xGrrl5lSeDM73RvXOHvJA1Zp0exJRHu6'; 
+const defaultCategory = 'world'; 
+const topUrl = `https://api.nytimes.com/svc/topstories/v2/${defaultCategory}.json?api-key=${apiKey}`;
 const TopNews = document.getElementById('top-stories');
 
 
@@ -170,7 +172,6 @@ const updateTopContainer = (data) => {
   if (!TopNews) return; 
   TopNews.innerHTML = '';
 
-  
   (data.results || []).forEach((item) => {
     const topContainer = document.createElement('div');
     topContainer.className = 'top';
@@ -178,7 +179,7 @@ const updateTopContainer = (data) => {
     const title = item.title || 'No title available';
     const url = item.url || '#';
     const abstract = item.abstract || 'No description available';
-    const image =  item.multimedia[0].url || 'https://res.cloudinary.com/dzvd6o0og/image/upload/v1726562144/placeholder_lz0wd0.jpg';
+    const image = item.multimedia?.[0]?.url || 'https://res.cloudinary.com/dzvd6o0og/image/upload/v1726562144/placeholder_lz0wd0.jpg';
 
     topContainer.innerHTML = `
       <h1><a href='${url}' target='_blank'>${title}</a></h1>
@@ -190,10 +191,25 @@ const updateTopContainer = (data) => {
   });
 };
 
-(async () => {
-  const data = await fetchData(topUrl);
+
+const loadTopStories = async (category) => {
+  const url = `https://api.nytimes.com/svc/topstories/v2/${category}.json?api-key=${apiKey}`;
+  const data = await fetchData(url);
   updateTopContainer(data);
+};
+
+
+(async () => {
+  await loadTopStories(defaultCategory);
 })();
+
+document.querySelectorAll('.topLinks').forEach(link => {
+  link.addEventListener('click', (event) => {
+    event.preventDefault(); // Prevent default link behavior
+    const category = event.target.id; // Get category from link's id
+    loadTopStories(category); // Load stories for the selected category
+  });
+});
 
 
 
