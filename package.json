@@ -2,7 +2,8 @@
   "name": "app",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build src/index.html --dist-dir docs --public-url /https://louisecalix.github.io/nytimes/",
+    "start": "parcel src/index.html",
+    "build": "parcel build --public-url https://louisecalix.github.io/nytimes src/index.html",
 
     "dev": "parcel serve src/index.html"
   }
