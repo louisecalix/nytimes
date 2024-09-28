@@ -9,6 +9,7 @@ html {
 
 BODY {
   overflow-y: auto;
+  height: auto;
 }
 
 #current-time {
@@ -41,6 +42,14 @@ menu, nav, section, time {
 
 #index-nav {
   min-width: 400px;
+}
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
 }
 
 #nav-container {
@@ -138,7 +147,7 @@ main {
 
 .articles-container {
   display: flex;
-  height: 100vh; 
+  height: auto; 
   gap: 40px; 
   margin-top: 40px;
 }

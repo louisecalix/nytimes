@@ -207,7 +207,7 @@ document.querySelectorAll('.topLinks').forEach(link => {
   link.addEventListener('click', (event) => {
     event.preventDefault(); // Prevent default link behavior
     const category = event.target.id; // Get category from link's id
-    loadTopStories(category); // Load stories for the selected category
+    loadTopStories(category); 
   });
 });
 
