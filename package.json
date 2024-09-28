@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build --public-url https://github.com/louisecalix/nytimes src/index.html",
+    "build": "parcel build --public-url https://louisecalix.github.io/nytimes src/index.html",
 
     "dev": "parcel serve src/index.html"
   }

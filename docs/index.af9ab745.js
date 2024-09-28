@@ -18,4 +18,4 @@ function e(){let e=document.getElementById("current-time"),t=new Date;e.innerHTM
             <img src="${n}" alt="${r}" />
             <p>${l}</p>
           `,a.appendChild(t)})};(async()=>{try{let e=await fetch(l),t=await e.json();i(t)}catch(e){console.error("Error fetching search results:",e)}})()})});
-//# sourceMappingURL=index.a6bdae8f.js.map
+//# sourceMappingURL=index.af9ab745.js.map
